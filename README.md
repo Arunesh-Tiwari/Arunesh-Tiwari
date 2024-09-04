@@ -3,7 +3,7 @@
 
 Python Development || Data Science || Data Analytics
 
-### 🔭 Visit my [website](https://arunesh-tiwari.vercel.app/) to know more about me.
+### 🔭 Visit my [website](https://arunesh-tiwari.github.io/portfolio/) to know more about me.
 
 
 ## ⚡ Tech Stack
