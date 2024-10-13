@@ -1,6 +1,5 @@
 # **Namaste🙏,  I’m Arunesh Tiwari**
 
-I’m a software developer with a passion for **Python Development**, **Data Science**, and **Data Analytics**.
 > 🌐 Visit my [website](https://arunesh-tiwari.github.io/portfolio/) for more detailed info! Here, I share my journey, experiences, and the tools I love working with. Feel free to explore and connect with me!
 
 ## ⚡ **Tech Stack: What I Use to Build Things**
